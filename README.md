@@ -136,9 +136,36 @@ You can step through each notebook sequentially from part 1 to part 5.
 
 ---
 
-## 🧩 Sample Output (Coming Soon)
+## 🧩 Sample Output
 
-> Add generated sample text, model loss curve plots, or architecture diagrams here.
+### 📉 Loss Curve
+
+<p align="center"> <img src="output.png" alt="Loss Curve" width="600"/> </p>
+
+### 📝 Sample Generated Names / Output
+
+```text
+india.
+makenly.
+marksher.
+rosabeth.
+charleigh.
+coron.
+kimari.
+wilfrazia.
+maburnate.
+aldon.
+elizetty.
+leelyn.
+heeyansh.
+jacquelynn.
+ashtin.
+tighana.
+heavina.
+meralda.
+angelouc.
+ibhima.
+```
 
 ---
 
